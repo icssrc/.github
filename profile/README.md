@@ -4,4 +4,6 @@ The International Cyber Security & Software Response Center (ICSSRC) is a profes
 
 Public projects, documentation, and official communication channels will be introduced as they become available.  
 
+---
+
 Copyright © 2026 ICSSRC. All Rights Reserved.
