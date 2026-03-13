@@ -6,4 +6,4 @@ Public projects, documentation, and official communication channels will be intr
 
 ---
 
-Copyright © 2025-2026 ICSSRC. All Rights Reserved.
+Copyright © 2025-2026 icssrc. All Rights Reserved.
