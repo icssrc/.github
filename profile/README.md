@@ -18,6 +18,10 @@ Information on public projects, documentation, and official communication channe
 
 Official communication channels will be announced in the future.
 
+For official inquiries and collaboration, please use the following channels:
+
+- GitHub: [https://github.com/icssrc](https://github.com/icssrc)
+
 ## Legal
 
 Copyright © 2025-2026 icssrc. All Rights Reserved.
