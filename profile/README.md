@@ -14,14 +14,6 @@ The organization aims to contribute to the reliability, security, and resilience
 
 Information on public projects, documentation, and official communication channels will be provided through this organization as they are released.
 
-## Contact
-
-Official communication channels will be announced in the future.
-
-For official inquiries and collaboration, please use the following channels:
-
-- GitHub: [https://github.com/icssrc](https://github.com/icssrc)
-
 ## Legal
 
 Copyright © 2025-2026 icssrc. All Rights Reserved.
