@@ -6,10 +6,6 @@ The **International Cyber Security & Software Response Center (ICSSRC)** is a pr
 
 Public projects, documentation, and official communication channels will be introduced as they become available.  
 
-## Contact
-
-- GitHub: https://github.com/icssrc
-
 ## Legal
 
 Copyright © 2025-2026 icssrc. All Rights Reserved.
