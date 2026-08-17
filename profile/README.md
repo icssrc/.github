@@ -1,3 +1,3 @@
 # ICSSRC
 
-The International Cyber Security Strategic Response Center (**ICSSRC**) is a organization dedicated to cybersecurity the development of secure systems.
+The International Cyber Security Strategic Response Center (**ICSSRC**) is a global organization dedicated to cybersecurity and the development of secure systems.
